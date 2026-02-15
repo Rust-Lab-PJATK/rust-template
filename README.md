@@ -5,7 +5,7 @@ Lekki szablon projektu w Rust, który działa „out of the box” i wymusza pod
 ## Jak zacząć
 1. Użyj przycisku **Use this template** na GitHubie **lub**:
    ```bash
-   cargo generate --git https://github.com/your-org/rust-template --name my-app
+   cargo generate --git https://github.com/Rust-Lab-PJATK/rust-template --name my-app
    ```
 2. Zainstaluj toolchain Rust (stable) i `cargo`.
 3. Lokalnie przed commitem uruchom:
